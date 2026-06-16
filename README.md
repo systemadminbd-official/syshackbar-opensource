@@ -13,7 +13,7 @@ Built for security researchers, bug-bounty hunters and CTF players who want a po
 ![UI](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![License](https://img.shields.io/badge/license-Educational-FFB300?style=for-the-badge)
 
-**Made by Team SystemAdminBD**
+**Made by Systemadminbd**
 
 </div>
 
