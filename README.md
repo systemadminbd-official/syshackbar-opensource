@@ -88,16 +88,8 @@ All recon tools run live against the target you provide and return copy-tappable
 | **SQLi Scanner** | Error-based probe that injects a quote into a URL parameter and matches DB-error signatures. |
 
 ---
-
-## Screenshots
-
-> _Add screenshots to a `docs/` or `screenshots/` folder and reference them here._
-
-```
-| Browser & Toolbar | Web Recon Tools | Encoder / Hash |
-|:---:|:---:|:---:|
-| screenshots/browser.png | screenshots/recon.png | screenshots/encoder.png |
-```
+  
+ 
 
 ---
 
